@@ -33,7 +33,7 @@ The category of the application
 
 #### permissions 
 The permissions the application requests
-format: {str : [], ...}
+format: ``{str : [], ...}``
 each string is a different permission category, and the value is an array of the required permissions for that category
 
 #### installs
